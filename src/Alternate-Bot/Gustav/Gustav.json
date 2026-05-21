@@ -1,0 +1,12 @@
+{
+  "name": "Gustav",
+  "version": "1.0",
+  "authors": ["Ridho","Naufal","Haikal"],
+  "description": "an Alternate Version of Nomad (Bot kelompok ini), that relies on preplanned track with the same system as base Nomad.",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}

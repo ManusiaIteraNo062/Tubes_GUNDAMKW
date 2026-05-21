@@ -1,0 +1,12 @@
+{
+  "name": "Nomad",
+  "version": "3.2",
+  "authors": ["Ridho","Naufal","Haikal"],
+  "description": "Walk without care, wall bounce, and open fire once within firing range. Greedy by Quantity of bullets.",
+  "homepage": "",
+  "countryCodes": [
+    "id"
+  ],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}

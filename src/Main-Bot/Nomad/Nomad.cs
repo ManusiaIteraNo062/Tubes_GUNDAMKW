@@ -5,7 +5,7 @@ using Robocode.TankRoyale.BotApi.Events;
 
 public class Nomad : Bot
 {
-    private const double EffectiveFiringRange = 300;
+    private const double EffectiveFiringRange = 375;
     private const double PointBlankRange = 75;       
 
     private double[] waypointX = new double[4];
@@ -48,12 +48,12 @@ public class Nomad : Bot
 
     public override void Run()
     {
-        BodyColor = Color.FromArgb(0x1A, 0x1A, 0x1A);
-        TurretColor = Color.FromArgb(0xD4, 0xAF, 0x37);
-        RadarColor = Color.FromArgb(0x00, 0xFF, 0x66);
-        BulletColor = Color.FromArgb(0xFF, 0x33, 0x33);
-        ScanColor = Color.FromArgb(0x00, 0xFF, 0x66);
-
+        BodyColor = Color.FromArgb(0x00, 0x00, 0xFF);   
+        TurretColor = Color.FromArgb(0xFF, 0xFF, 0xFF);
+        RadarColor = Color.FromArgb(0xFF, 0x00, 0x00);  
+        BulletColor = Color.FromArgb(0x00, 0xFF, 0xFF); 
+        ScanColor = Color.FromArgb(0x00, 0xFF, 0xFF);
+		
         while (IsRunning)
         {
             if (!trackInitialized)

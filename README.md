@@ -8,7 +8,12 @@ C# 10.0
 Jujur botnya susah susah gampang buat bikin trackingnya. Untungnya umur Robocode hampir seumuran anak sma dan ulang tahun ke 16, jadi banyak bahan untuk dipelajari dari Robowiki
 Speaking off,
 https://robowiki.net/wiki/Robocode/
-Repository Robocode dan tips and trick terbesar di dunia.
+Repository Robocode dan tips and trick terbesar di dunia. Serta forum komunitas Robocode yang masih aktif
+
+https://github.com/robocode-dev/book-of-robocode
+Book of Robocode, cara mudah memahami robocode melalui manual
+
+
 
 
 # DESKRIPSI MINI BOT YANG DIBUAT

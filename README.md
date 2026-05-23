@@ -1,5 +1,5 @@
 # Tubes_GUNDAMKW
-Ridho (124140062), Naufal (124140026), Haikal (124140214)
+Ridho (124140062), Naufal (124140026)
 
 Versi net 10.0
 C# 10.0
@@ -15,3 +15,7 @@ Repository Robocode dan tips and trick terbesar di dunia.
 Nomad : Bot yang "memantul" antar tembok untuk menjadi pengarah gerak, memastikan untuk terus bergerak tanpa peduli arah dan hanya mengikuti pantulan.
 Gustav : Bot Alternatif dari 'Nomad', Memiliki pathing unik dan konkrit. Memastikan diri untuk terus bergerak mengikuti pola yang dianggap "aman".
 Tinman : Terinspirasi dari cara kerja robot chaser dan julukan G.I Robot. Memastikan untuk mengejar musuh apapun halangannya dan mengorbit mereka dari jarak melee (60~ Px)
+
+
+# CARA PAKAI BOT
+Download folder, klik cmd/sh, lalu pastikan versi anda sesuai dengan bagian atas. Jika sudah, enjoy dan gunakan bot kelompok ini

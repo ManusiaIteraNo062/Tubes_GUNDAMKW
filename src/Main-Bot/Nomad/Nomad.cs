@@ -5,8 +5,8 @@ using Robocode.TankRoyale.BotApi.Events;
 
 public class Nomad : Bot
 {
-    private const double EffectiveFiringRange = 375;
-    private const double PointBlankRange = 75;       
+    private const double EffectiveFiringRange = 425;
+    private const double PointBlankRange = 110;       
 
     private double[] waypointX = new double[4];
     private double[] waypointY = new double[4];
@@ -113,7 +113,7 @@ public class Nomad : Bot
 
                 if (currentDistance <= EffectiveFiringRange)
                 {
-                    double bulletPower = (currentDistance <= PointBlankRange) ? 3.0 : 1.0;
+                    double bulletPower = (currentDistance <= PointBlankRange) ? 3.0 : 0.5;
                     Fire(bulletPower);
                 }
 

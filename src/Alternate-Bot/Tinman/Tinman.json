@@ -1,0 +1,10 @@
+{
+  "name": "Tinman",
+  "version": "2.0",
+  "authors": ["Ridho", "Naufal", "Haikal"],
+  "description": "Referencing G.I Robot from Creature Commandos. Fights within range without caring, chasing and hunting.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 10.0",
+  "programmingLang": "C# 10.0"
+}

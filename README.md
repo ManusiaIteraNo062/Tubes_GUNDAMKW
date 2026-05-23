@@ -25,3 +25,4 @@ Vernon : Bergerak Liar dan teratur, terus menembak dan bergerak<br />
 
 # CARA PAKAI BOT
 Download folder, klik cmd/sh, lalu pastikan versi anda sesuai dengan bagian atas. Jika sudah, enjoy dan gunakan bot kelompok ini<br />
+TOLONG HAPUS BIN DAN OBJ KETIKA INGIN MENGGUNAKAN BOT. BOT PERLU FRESH OBJ DAN BIN DI DEVICE BARU AGAR MENGURANGI KEMUNGKINAN ERROR<br/>

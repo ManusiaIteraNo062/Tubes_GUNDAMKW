@@ -5,7 +5,7 @@ using Robocode.TankRoyale.BotApi.Events;
 
 public class Gustav : Bot
 {
-    private const double EffectiveFiringRange = 350; 
+    private const double EffectiveFiringRange = 600; 
     private const double PointBlankRange = 90;       
 
     private double moveAmountWidth = 0;
@@ -48,7 +48,7 @@ public class Gustav : Bot
 
             if (currentDistance <= EffectiveFiringRange)
             {
-                double bulletPower = (currentDistance <= PointBlankRange) ? 3.0 : 1.0;
+                double bulletPower = (currentDistance <= PointBlankRange) ? 3.0 : 0.4;
                 Fire(bulletPower);
             }
 
